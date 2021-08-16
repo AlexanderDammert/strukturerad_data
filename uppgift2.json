@@ -1,0 +1,35 @@
+{"Skiva1" : [
+    {"title":"All i want for chrismas"},
+    {"artist":"Lil moses"},
+    {"Genré":"RAP"},
+    {"publiceringsår":"2021"},
+    {"skivbolag":"Musicstudios"},
+    {"producent":"James olson"}
+] }
+
+{"Skiva2" : [
+    {"title":"33"},
+    {"artist":"Lil arthur"},
+    {"Genré":"Hiphop"},
+    {"publiceringsår":"2021"},
+    {"skivbolag":"capalot records"},
+    {"producent":"Adam Jobs"}
+]}
+
+{"Skiva3" : [
+    {"title":"goodbyes"},
+    {"artist":"Stephan grant"},
+    {"Genré":"rock"},
+    {"publiceringsår":"2021"},
+    {"skivbolag":"radiex"},
+    {"producent":"Ryder Salvatore"}
+]}
+
+{"Skiva4" : [
+    {"title":"righteous"},
+    {"artist":"mc racks"},
+    {"Genré":"funk"},
+    {"publiceringsår":"2021"},
+    {"skivbolag":"Nadsco stonks"},
+    {"producent":"John jones"}
+]}
